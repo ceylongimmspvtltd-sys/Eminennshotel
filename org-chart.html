@@ -1,0 +1,550 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Full Organization Chart — Hotel Management System · Eminence Shire Ella</title>
+<meta name="description" content="Complete department-wise & job-wise organization chart for the full Hotel Management System of Eminence Shire Ella — 10 departments, 74 job roles, reporting lines, headcount and PMS module mapping.">
+<link rel="icon" type="image/png" href="brand/favicon.png">
+<style>
+:root{
+  --gold:#d9b26a; --green:#1e7a5a; --ink:#07110d; --ink2:#0a1712; --ink3:#0d1e17;
+  --line:rgba(217,178,106,.28); --mint:#8fd6b4; --mut:#a9bcb2;
+  --panel:rgba(255,255,255,.06); --txt:#e9f1ec; --sh:0 30px 80px rgba(0,0,0,.55);
+  --sans:"Segoe UI",system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif;
+  --serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,"Times New Roman",serif;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{background:radial-gradient(1200px 700px at 80% -10%,rgba(30,122,90,.25),transparent 60%),
+            radial-gradient(900px 600px at -10% 30%,rgba(217,178,106,.10),transparent 55%),
+            var(--ink);
+     color:var(--txt);font-family:var(--sans);line-height:1.55;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1180px;margin:0 auto;padding:0 22px}
+h1,h2,h3{font-family:var(--serif);font-weight:600;letter-spacing:.2px}
+a{color:var(--gold);text-decoration:none}
+::selection{background:rgba(217,178,106,.35)}
+
+/* ---------- nav ---------- */
+nav{position:sticky;top:0;z-index:60;background:rgba(7,17,13,.82);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+.navin{display:flex;align-items:center;gap:20px;padding:12px 0}
+.logo{display:flex;align-items:center;gap:10px;color:var(--txt)}
+.logo img{width:38px;height:38px;border-radius:9px;border:1px solid var(--line)}
+.logo b{font-family:var(--serif);font-size:17px;display:block;line-height:1.1}
+.logo span{font-size:11.5px;color:var(--mut);letter-spacing:.6px;text-transform:uppercase}
+.links{display:flex;gap:18px;margin-left:auto;flex-wrap:wrap}
+.links a{color:var(--txt);font-size:13.5px;opacity:.85;padding:4px 2px}
+.links a:hover{opacity:1;color:var(--gold)}
+.links a.on{color:var(--gold);opacity:1;border-bottom:1px solid var(--gold)}
+.btn{display:inline-flex;align-items:center;gap:8px;border:1px solid var(--line);color:var(--txt);
+     background:var(--panel);padding:10px 16px;border-radius:12px;font-size:14px;cursor:pointer;transition:.2s}
+.btn:hover{border-color:var(--gold);color:var(--gold)}
+.btn-g{background:linear-gradient(135deg,var(--gold),#c99b4a);color:#241a08;border:0;font-weight:600}
+.btn-g:hover{color:#171004;filter:brightness(1.06)}
+
+/* ---------- hero ---------- */
+.hero{padding:64px 0 30px;text-align:center}
+.kicker{display:inline-block;font-size:12px;letter-spacing:2.5px;text-transform:uppercase;color:var(--mint);
+        border:1px solid rgba(143,214,180,.35);padding:6px 14px;border-radius:99px;margin-bottom:18px}
+.hero h1{font-size:clamp(30px,5vw,52px);line-height:1.12}
+.hero h1 em{font-style:normal;color:var(--gold)}
+.hero p.sub{max-width:760px;margin:16px auto 0;color:var(--mut);font-size:16px}
+.hero .acts{display:flex;gap:12px;justify-content:center;margin-top:26px;flex-wrap:wrap}
+
+/* ---------- stats ---------- */
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:40px 0 10px}
+.stat{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:18px 16px;text-align:center}
+.stat b{display:block;font-family:var(--serif);font-size:30px;color:var(--gold)}
+.stat span{font-size:12.5px;color:var(--mut);letter-spacing:.4px}
+
+/* ---------- sections ---------- */
+section{padding:54px 0 10px}
+.sec-head{margin-bottom:26px}
+.sec-head h2{font-size:clamp(24px,3.4vw,34px)}
+.sec-head h2 i{font-style:normal;color:var(--gold)}
+.sec-head p{color:var(--mut);max-width:820px;margin-top:8px;font-size:15px}
+.rule{height:1px;background:linear-gradient(90deg,transparent,var(--line),transparent);margin:44px 0 0}
+
+/* ---------- top org tree ---------- */
+.otree{overflow-x:auto;padding:26px 6px 10px}
+.otree ul{display:flex;justify-content:center;padding-top:26px;position:relative;list-style:none}
+.otree li{text-align:center;position:relative;padding:26px 7px 0}
+.otree li::before,.otree li::after{content:'';position:absolute;top:0;right:50%;width:50%;height:26px;border-top:1px solid var(--line)}
+.otree li::after{right:auto;left:50%;border-left:1px solid var(--line)}
+.otree li:only-child::before,.otree li:only-child::after{display:none}
+.otree li:only-child{padding-top:26px}
+.otree li:first-child::before,.otree li:last-child::after{border-top:0}
+.otree li:last-child::before{border-right:1px solid var(--line);border-radius:0 10px 0 0}
+.otree li:first-child::after{border-radius:10px 0 0 0}
+.otree ul ul::before{content:'';position:absolute;top:0;left:50%;height:26px;border-left:1px solid var(--line)}
+.node{display:inline-block;min-width:132px;max-width:168px;background:var(--ink3);border:1px solid var(--line);
+      border-radius:14px;padding:12px 10px;cursor:pointer;transition:.2s;vertical-align:top}
+.node:hover{transform:translateY(-3px);border-color:var(--gold);box-shadow:var(--sh)}
+.node .ic{font-size:20px}
+.node b{display:block;font-size:13px;margin:4px 0 2px;line-height:1.25}
+.node small{display:block;font-size:11px;color:var(--mut);line-height:1.3}
+.node .hc{display:inline-block;margin-top:6px;font-size:10.5px;color:var(--gold);border:1px solid var(--line);
+          padding:2px 8px;border-radius:99px}
+.node.top{background:linear-gradient(135deg,rgba(217,178,106,.16),rgba(30,122,90,.16));border-color:var(--gold);min-width:210px;cursor:default}
+.node.top b{font-family:var(--serif);font-size:16px;color:var(--gold)}
+.node.gm{background:linear-gradient(135deg,rgba(30,122,90,.28),rgba(30,122,90,.10));border-color:rgba(143,214,180,.5);min-width:210px;cursor:default}
+.node.gm b{font-family:var(--serif);font-size:15.5px;color:var(--mint)}
+.legend{display:flex;gap:18px;flex-wrap:wrap;justify-content:center;margin-top:18px;font-size:12px;color:var(--mut)}
+.legend i{font-style:normal;color:var(--gold)}
+
+/* ---------- department cards ---------- */
+.dept{background:var(--panel);border:1px solid var(--line);border-radius:20px;margin:18px 0;overflow:hidden;
+      box-shadow:0 10px 40px rgba(0,0,0,.35)}
+.dept-head{display:flex;align-items:center;gap:14px;padding:18px 22px;cursor:pointer;background:rgba(0,0,0,.15)}
+.dept-head:hover{background:rgba(0,0,0,.28)}
+.d-ic{width:46px;height:46px;flex:0 0 46px;border-radius:13px;display:grid;place-items:center;font-size:22px;
+      border:1px solid var(--line);background:rgba(0,0,0,.25)}
+.dept-head h3{font-size:19px}
+.dept-head .meta{font-size:12.5px;color:var(--mut)}
+.dept-head .meta b{color:var(--gold);font-weight:600}
+.badge{margin-left:auto;display:flex;gap:8px;align-items:center}
+.badge .pill{font-size:11px;border:1px solid var(--line);color:var(--gold);padding:3px 10px;border-radius:99px;white-space:nowrap}
+.chev{width:26px;height:26px;border-radius:50%;border:1px solid var(--line);display:grid;place-items:center;
+      font-size:12px;color:var(--gold);transition:.25s;flex:0 0 26px}
+.dept.open .chev{transform:rotate(180deg)}
+.dept-body{display:none;padding:6px 22px 24px;border-top:1px solid var(--line)}
+.dept.open .dept-body{display:block}
+.mission{color:var(--mut);font-size:13.5px;margin:14px 0 4px}
+.kpis{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 18px}
+.kpis span{font-size:11px;color:var(--mint);border:1px solid rgba(143,214,180,.3);padding:3px 10px;border-radius:99px}
+
+/* inner reporting tree */
+.dline{margin:8px 0 6px;font-size:14px}
+.dline ul{list-style:none;margin-left:10px;border-left:1px dashed rgba(217,178,106,.35);padding-left:22px}
+.dline>ul{margin-left:0;border-left:0;padding-left:0}
+.dline li{margin:9px 0;position:relative}
+.dline ul>li::before{content:'';position:absolute;left:-22px;top:15px;width:18px;border-top:1px dashed rgba(217,178,106,.35)}
+.jobrow{display:flex;flex-wrap:wrap;align-items:baseline;gap:8px}
+.jobrow .dot{width:9px;height:9px;border-radius:50%;flex:0 0 9px;align-self:center}
+.jobrow b{font-size:14px}
+.jobrow .code{font-size:10.5px;color:var(--mut);border:1px solid rgba(255,255,255,.14);padding:1px 7px;border-radius:6px}
+.jobrow .tag{font-size:10.5px;color:var(--ink);background:var(--mint);padding:1px 8px;border-radius:6px;font-weight:600}
+.jobrow .rep{font-size:11.5px;color:var(--mut)}
+.duties{margin:6px 0 2px 17px;font-size:12.8px;color:var(--mut)}
+.duties li{margin:2px 0}
+.dtoggle{background:none;border:0;color:var(--gold);font-size:11.5px;cursor:pointer;padding:0;margin-left:17px}
+.dtoggle:hover{text-decoration:underline}
+
+/* ---------- matrix ---------- */
+.toolbar{display:flex;gap:10px;flex-wrap:wrap;margin:6px 0 16px;align-items:center}
+.toolbar input,.toolbar select{background:rgba(0,0,0,.35);border:1px solid var(--line);color:var(--txt);
+      padding:10px 14px;border-radius:12px;font-size:14px;outline:none;min-width:220px}
+.toolbar input:focus,.toolbar select:focus{border-color:var(--gold)}
+.tbl-wrap{overflow-x:auto;border:1px solid var(--line);border-radius:16px}
+table{width:100%;border-collapse:collapse;font-size:13px;min-width:860px}
+th{position:sticky;top:0;background:var(--ink3);color:var(--gold);text-align:left;padding:12px 14px;
+   font-size:11.5px;letter-spacing:1px;text-transform:uppercase;border-bottom:1px solid var(--line)}
+td{padding:11px 14px;border-bottom:1px solid rgba(255,255,255,.06);vertical-align:top}
+tbody tr:hover{background:rgba(217,178,106,.06)}
+td .dchip{display:inline-flex;align-items:center;gap:6px;font-size:11.5px;padding:2px 9px;border-radius:99px;border:1px solid var(--line);white-space:nowrap}
+td .dchip i{width:8px;height:8px;border-radius:50%;display:inline-block}
+.mono{font-size:11.5px;color:var(--mut)}
+
+/* ---------- modules / boutique ---------- */
+.grid2{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:14px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:18px}
+.card h4{font-family:var(--serif);color:var(--gold);font-size:16px;margin-bottom:6px}
+.card p{font-size:13px;color:var(--mut)}
+.card .m{margin-top:8px;font-size:12px;color:var(--mint)}
+
+/* ---------- footer ---------- */
+footer{margin-top:60px;border-top:1px solid var(--line);padding:30px 0 40px;text-align:center;color:var(--mut);font-size:13px}
+.totop{position:fixed;right:18px;bottom:18px;z-index:70;display:none}
+
+/* ---------- print ---------- */
+@media print{
+  body{background:#fff;color:#111}
+  nav,.hero .acts,.toolbar,.totop,.chev,footer .btn{display:none!important}
+  .dept{break-inside:avoid;box-shadow:none;border-color:#ccc}
+  .dept-body{display:block!important}
+  .dept-head{background:#f5f0e6}
+  .node,.card,.stat,.tbl-wrap{background:#fff;border-color:#bbb;box-shadow:none}
+  .node b,.stat b,.sec-head h2 i,.hero h1 em{color:#8a6a2f}
+  .node small,.mission,.duties,.dept-head .meta,.sec-head p,.hero p.sub,.card p{color:#444}
+  td,th{color:#111}
+  th{background:#f2ede2;color:#7a5d28}
+  .kpis span{color:#1e7a5a;border-color:#1e7a5a}
+}
+
+@media(max-width:860px){
+  .stats{grid-template-columns:repeat(2,1fr)}
+  .links{display:none}
+}
+</style>
+</head>
+<body>
+
+<nav><div class="wrap navin">
+  <a class="logo" href="index.html">
+    <img src="brand/logo-white.png" alt="Eminence Ella logo" onerror="this.style.display='none'">
+    <div><b>Eminence Shire</b><span>Ella · Sri Lanka</span></div>
+  </a>
+  <div class="links">
+    <a href="index.html">The Hotel</a><a href="acco.html">Accommodation</a><a href="places.html">Places</a>
+    <a href="plan.html">Trip planner</a><a class="on" href="org-chart.html">Org Chart</a>
+  </div>
+</div></nav>
+
+<header class="hero wrap">
+  <span class="kicker">Total Hotel Management System</span>
+  <h1>Full <em>Organization Chart</em><br>Department-wise &amp; Job-wise</h1>
+  <p class="sub">The complete organizational structure for running the hotel — every department, every job role,
+     reporting lines, typical headcount and how each department maps into the Hotel Management System (PMS).</p>
+  <div class="acts">
+    <button class="btn btn-g" onclick="window.print()">🖨 Print / Save as PDF</button>
+    <a class="btn" href="#deptcharts">Department Charts ↓</a>
+    <a class="btn" href="#matrix">Full Job Matrix</a>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="stats" id="stats"></div>
+</div>
+
+<!-- ============ CHAIN OF COMMAND ============ -->
+<section class="wrap" id="topchart">
+  <div class="sec-head">
+    <h2><i>1 ·</i> Chain of Command — Full Organization</h2>
+    <p>Owners &amp; Board → General Manager → 10 departments. Click any department box to jump to its full
+       job-wise structure below.</p>
+  </div>
+  <div class="otree"><ul><li>
+    <span class="node top"><span class="ic">👑</span><b>Owners / Board of Directors</b><small>Ownership · investment · policy approval</small></span>
+    <ul><li>
+      <span class="node gm"><span class="ic">⭐</span><b>General Manager</b><small>GM-00 · Overall hotel leadership</small></span>
+      <ul id="deptrow"></ul>
+    </li></ul>
+  </li></ul></div>
+  <div class="legend">
+    <span><i>●</i> Numbers on boxes = typical headcount (60–100 room full-service hotel)</span>
+    <span><i>●</i> Dotted lines inside departments = internal reporting</span>
+  </div>
+</section>
+
+<div class="wrap rule"></div>
+
+<!-- ============ DEPARTMENT CHARTS ============ -->
+<section class="wrap" id="deptcharts">
+  <div class="sec-head">
+    <h2><i>2 ·</i> Department-wise Structure &amp; Jobs</h2>
+    <p>Each department card shows the full reporting tree, every job role with its code, headcount, shift pattern
+       and key duties. Click a card header to expand/collapse — or use the buttons below.</p>
+    <div style="margin-top:14px;display:flex;gap:10px;flex-wrap:wrap">
+      <button class="btn" onclick="setAll(true)">Expand all</button>
+      <button class="btn" onclick="setAll(false)">Collapse all</button>
+    </div>
+  </div>
+  <div id="depts"></div>
+</section>
+
+<div class="wrap rule"></div>
+
+<!-- ============ JOB MATRIX ============ -->
+<section class="wrap" id="matrix">
+  <div class="sec-head">
+    <h2><i>3 ·</i> Complete Job Matrix — All Roles</h2>
+    <p>Every job in the system in one table. Search by job title or code, or filter by department / shift.</p>
+  </div>
+  <div class="toolbar">
+    <input id="q" type="search" placeholder="🔍 Search job title or code…" oninput="renderMatrix()">
+    <select id="fd" onchange="renderMatrix()"><option value="">All departments</option></select>
+    <select id="fs" onchange="renderMatrix()">
+      <option value="">All shifts</option>
+      <option>Day</option><option>Rotating</option><option>Night</option><option>Split</option><option>Office</option><option>On-call</option>
+    </select>
+    <span id="mcount" class="mono"></span>
+  </div>
+  <div class="tbl-wrap"><table>
+    <thead><tr><th>Code</th><th>Job Title</th><th>Department</th><th>Reports To</th><th>HC</th><th>Shift</th><th>Core Function</th></tr></thead>
+    <tbody id="mbody"></tbody>
+  </table></div>
+</section>
+
+<div class="wrap rule"></div>
+
+<!-- ============ PMS MODULE MAPPING ============ -->
+<section class="wrap" id="modules">
+  <div class="sec-head">
+    <h2><i>4 ·</i> Departments ↔ Hotel Management System Modules</h2>
+    <p>How each department plugs into the software system (PMS) that runs the hotel.</p>
+  </div>
+  <div class="grid2" id="mods"></div>
+</section>
+
+<div class="wrap rule"></div>
+
+<!-- ============ BOUTIQUE MODEL ============ -->
+<section class="wrap" id="boutique">
+  <div class="sec-head">
+    <h2><i>5 ·</i> Boutique Operation — Lean Model (Eminence Shire Ella, 3 Rooms)</h2>
+    <p>The full chart above is the complete standard structure. For a small boutique property, roles are combined
+       as follows — same departments, fewer people, multi-skilled staff.</p>
+  </div>
+  <div class="tbl-wrap"><table>
+    <thead><tr><th>Department</th><th>Lean role (combined)</th><th>HC</th><th>Notes</th></tr></thead>
+    <tbody>
+      <tr><td>Leadership</td><td><b>Owner-Manager / Duty Manager</b></td><td>1–2</td><td>Covers GM + Sales + Admin decisions</td></tr>
+      <tr><td>Front Office</td><td><b>Host / Guest Service Agent</b></td><td>2</td><td>Check-in, reservations, WhatsApp bookings, night cover on-call</td></tr>
+      <tr><td>Housekeeping</td><td><b>Housekeeper + Laundry</b></td><td>2</td><td>Rooms, public areas, linen &amp; guest laundry</td></tr>
+      <tr><td>Food &amp; Beverage</td><td><b>Chef + Kitchen Helper</b></td><td>2</td><td>Breakfast, room service, cooking classes; server duties shared</td></tr>
+      <tr><td>Finance</td><td><b>Part-time Accountant</b></td><td>0.5</td><td>Invoicing, OTA commissions, supplier payments</td></tr>
+      <tr><td>Engineering</td><td><b>Visiting Technician</b></td><td>0.25</td><td>On-call for electrical / plumbing fixes</td></tr>
+      <tr><td>Security</td><td><b>Night Watchman</b></td><td>1</td><td>Night gate &amp; property watch; CCTV on phone alerts</td></tr>
+      <tr><td>Garden</td><td><b>Part-time Gardener</b></td><td>0.25</td><td>Hillside garden &amp; terrace upkeep</td></tr>
+    </tbody>
+  </table></div>
+  <p class="mono" style="margin-top:12px">≈ 10–11 staff total · staff-to-room ratio ≈ 3.5 : 1 (high-touch boutique service)</p>
+</section>
+
+<footer class="wrap">
+  <p><b style="color:var(--gold);font-family:var(--serif)">Eminence Shire Ella</b> · Wemullahena, Ella, Sri Lanka ·
+     <a href="index.html">The Hotel</a> · <a href="acco.html">Accommodation</a> · <a href="places.html">Places</a> · <a href="plan.html">Trip planner</a></p>
+  <p style="margin-top:6px">Hotel Management System — Full Organization Chart · Department-wise &amp; Job-wise</p>
+</footer>
+
+<button class="btn totop" id="totop" onclick="scrollTo({top:0,behavior:'smooth'})">↑ Top</button>
+
+<script>
+/* ================= ORGANIZATION DATA ================= */
+const ORG=[
+{id:'fo',name:'Front Office',icon:'🛎️',color:'#d9b26a',mission:'First and last impression of the hotel — reservations, arrivals, guest service, billing and the night audit.',
+ kpis:['ADR & RevPAR','Upsell revenue','Guest satisfaction score','Check-in ≤ 3 minutes'],
+ module:'Front Desk / Reservations module — check-in/out, folios, rate plans, night audit.',
+ jobs:[
+  {c:'FO-01',t:'Front Office Manager',hc:1,sh:'Day',d:['Leads all front office operations and staff rosters','Owns guest satisfaction, OTA scores & upselling','Coordinates rooms inventory with Housekeeping']},
+  {c:'FO-02',t:'Assistant Front Office Manager',hc:1,sh:'Rotating',d:['Runs day-to-day desk operations','Handles escalations & VIP arrivals','Trains and audits reception team']},
+  {c:'FO-03',t:'Front Office Supervisor (Shift Leader)',hc:2,sh:'Rotating',d:['Leads one shift of the desk team','Approves billing adjustments & refunds','Briefs team at shift handover']},
+  {c:'FO-04',t:'Senior Receptionist',hc:2,sh:'Rotating',d:['Handles check-in/out and complex billing','Mentors junior agents','Manages group arrivals']},
+  {c:'FO-05',t:'Receptionist / Guest Service Agent',hc:4,sh:'Rotating',d:['Welcomes guests, registers & assigns rooms','Answers calls, WhatsApp & walk-ins','Posts charges and settles folios']},
+  {c:'FO-06',t:'Reservation Agent',hc:1,sh:'Day',d:['Manages bookings across phone, OTA & website','Maintains rates and availability','Confirms bookings & pre-arrival details']},
+  {c:'FO-07',t:'Night Auditor',hc:1,sh:'Night',d:['Runs end-of-day close in the PMS','Reconciles revenue & payment batches','Prepares daily management report']},
+  {c:'FO-08',t:'Concierge',hc:1,sh:'Day',d:['Arranges tours, transport & tickets','Books trains, hikes & local experiences','Maintains local knowledge base']},
+  {c:'FO-09',t:'Guest Relations Executive',hc:1,sh:'Day',d:['Pre-arrival contact & special requests','Handles complaints & recovery','Collects reviews and feedback']},
+  {c:'FO-10',t:'Bell Captain',hc:1,sh:'Rotating',d:['Coordinates luggage and arrivals flow','Supervises porters & doorman','Manages luggage storage log']},
+  {c:'FO-11',t:'Bell Boy / Porter',hc:2,sh:'Rotating',d:['Carries luggage to rooms','Assists arrivals and departures','Runs guest errands']},
+  {c:'FO-12',t:'Door Person',hc:1,sh:'Day',d:['Greets guests at the entrance','Manages vehicle drop-off area','Calls taxis and transports']},
+  {c:'FO-13',t:'Airport / Station Transfer Driver',hc:1,sh:'On-call',d:['Guest pick-ups and drop-offs','Vehicle cleanliness & fuel log','Local shuttle runs']}],
+ tree:{j:0,ch:[{j:1,ch:[{j:2,ch:[{j:3},{j:4},{j:5},{j:6}]},{j:7},{j:8},{j:9,ch:[{j:10},{j:11}]},{j:12}]}]}},
+
+{id:'hk',name:'Housekeeping',icon:'🧺',color:'#8fd6b4',mission:'Clean, safe and beautiful rooms and public areas — the heart of the guest experience.',
+ kpis:['Room cleanliness score','Rooms ready on time','Linen & amenity cost/room','Maintenance response'],
+ module:'Housekeeping module — room status (dirty/clean/inspected), lost & found, minibar, task lists.',
+ jobs:[
+  {c:'HK-01',t:'Executive Housekeeper',hc:1,sh:'Day',d:['Leads housekeeping, laundry & public areas','Budgets linen, uniforms & amenities','Sets cleaning standards & inspection routines']},
+  {c:'HK-02',t:'Assistant Executive Housekeeper',hc:1,sh:'Day',d:['Daily task allocation & inspections','Manages lost & found and keys','Controls stock and requisitions']},
+  {c:'HK-03',t:'Floor Supervisor',hc:2,sh:'Rotating',d:['Inspects cleaned rooms before release','Issues maintenance work orders','Checks corridor & floor pantries']},
+  {c:'HK-04',t:'Room Attendant',hc:8,sh:'Rotating',d:['Cleans and services guest rooms','Changes linen & replenishes amenities','Reports damages and maintenance needs']},
+  {c:'HK-05',t:'Public Area Supervisor',hc:1,sh:'Day',d:['Plans public area cleaning schedules','Checks lobby, restaurant & toilets','Supervises PA attendants']},
+  {c:'HK-06',t:'Public Area Attendant',hc:3,sh:'Rotating',d:['Keeps lobby, terraces & walkways clean','Deep-cleaning tasks on roster','Supports events with quick turnarounds']},
+  {c:'HK-07',t:'Linen & Uniform Attendant',hc:1,sh:'Day',d:['Issues and tracks linen & uniforms','Counts laundry in/out daily','Flags damaged or aging linen']},
+  {c:'HK-08',t:'Laundry Manager',hc:1,sh:'Day',d:['Runs laundry & guest valet service','Manages machines, chemicals & costs','Quality-checks finishing and pressing']},
+  {c:'HK-09',t:'Laundry Attendant / Presser',hc:2,sh:'Day',d:['Washes, dries and presses linen','Handles guest laundry with tagging','Sorts and folds for distribution']},
+  {c:'HK-10',t:'Gardener',hc:1,sh:'Day',d:['Maintains gardens and hillside planting','Upkeeps terrace plants & pots','Supports grounds cleaning']}],
+ tree:{j:0,ch:[{j:1,ch:[{j:2,ch:[{j:3}]},{j:4,ch:[{j:5}]},{j:6}]},{j:7,ch:[{j:8}]},{j:9}]}},
+
+{id:'fb',name:'Food & Beverage',icon:'🍽️',color:'#e8927c',mission:'Restaurant, bar, room service and kitchen — quality food, memorable Sri Lankan hospitality.',
+ kpis:['F&B revenue / covers','Food cost %','Kitchen hygiene audit','Breakfast satisfaction'],
+ module:'POS & Inventory modules — order taking, kitchen tickets, recipes, food cost, minibar billing.',
+ jobs:[
+  {c:'FB-01',t:'Food & Beverage Manager',hc:1,sh:'Day',d:['Leads restaurant, bar, room service & kitchen','Owns F&B budget, menus & pricing','Coordinates with Sales for events']},
+  {c:'FB-02',t:'Restaurant Manager',hc:1,sh:'Split',d:['Runs daily restaurant service','Manages reservations & table plans','Coaches service team on standards']},
+  {c:'FB-03',t:'Head Waiter / Captain',hc:2,sh:'Split',d:['Leads a station during service','Takes orders & presents dishes','Handles guest requests at the table']},
+  {c:'FB-04',t:'Waiter / Server',hc:6,sh:'Split',d:['Serves food and beverages','Mise-en-place and table setting','Clears and resets between covers']},
+  {c:'FB-05',t:'Hostess',hc:1,sh:'Split',d:['Greets and seats restaurant guests','Manages the waiting list','Coordinates cover flow with kitchen']},
+  {c:'FB-06',t:'Bartender / Barista',hc:2,sh:'Rotating',d:['Prepares drinks, coffee & juices','Manages bar stock & requisitions','Keeps bar area spotless']},
+  {c:'FB-07',t:'Room Service Order Taker',hc:1,sh:'Rotating',d:['Takes in-room dining orders','Coordinates tray timing with kitchen','Follows up on tray retrieval']},
+  {c:'FB-08',t:'Executive Chef',hc:1,sh:'Day',d:['Designs menus & recipes','Controls food cost and hygiene (HACCP)','Leads and trains the kitchen brigade']},
+  {c:'FB-09',t:'Sous Chef',hc:2,sh:'Split',d:['Runs a kitchen shift','Supervises production & plating','Steps in for Executive Chef']},
+  {c:'FB-10',t:'Chef de Partie',hc:3,sh:'Split',d:['Owns a section (hot/cold/pastry)','Prepares and cooks section dishes','Trains commis chefs']},
+  {c:'FB-11',t:'Commis Chef',hc:4,sh:'Split',d:['Prep work (mise-en-place)','Assists cooking during service','Rotates sections to learn']},
+  {c:'FB-12',t:'Pastry Chef',hc:1,sh:'Day',d:['Bakes breads & desserts','Plates dessert courses','Manages bakery stock']},
+  {c:'FB-13',t:'Kitchen Helper',hc:2,sh:'Split',d:['Basic prep and vegetable work','Keeps kitchen stations stocked','Supports chefs during service']},
+  {c:'FB-14',t:'Chief Steward',hc:1,sh:'Day',d:['Leads stewarding & dishwashing','Manages crockery, cutlery & chemicals','Enforces kitchen hygiene standards']},
+  {c:'FB-15',t:'Kitchen Steward',hc:3,sh:'Split',d:['Washes dishes, pots and pans','Cleans kitchen and service areas','Assists with receiving goods']}],
+ tree:{j:0,ch:[{j:1,ch:[{j:2,ch:[{j:3},{j:4}]},{j:5},{j:6}]},{j:7,ch:[{j:8,ch:[{j:9,ch:[{j:10}]},{j:11}]},{j:12}]},{j:13,ch:[{j:14}]}]}},
+
+{id:'fa',name:'Finance & Accounts',icon:'💰',color:'#8fc3e8',mission:'Accurate money control — revenue audit, payables, receivables, costing and statutory compliance.',
+ kpis:['Daily revenue reconciled 100%','AR aging < 30 days','Cost control variance','Audit compliance'],
+ module:'Accounting module — ledgers, invoicing, tax reports, OTA commission, bank reconciliation.',
+ jobs:[
+  {c:'FA-01',t:'Finance Manager / Chief Accountant',hc:1,sh:'Office',d:['Owns accounts, budgets & forecasts','Reports monthly P&L to owners','Ensures tax & statutory compliance']},
+  {c:'FA-02',t:'Senior Accountant',hc:1,sh:'Office',d:['Prepares ledgers & month-end close','Reviews payroll and journals','Supports external audits']},
+  {c:'FA-03',t:'Accounts Assistant (AP / AR)',hc:1,sh:'Office',d:['Processes supplier invoices & payments','Chases corporate & OTA receivables','Files vouchers and records']},
+  {c:'FA-04',t:'Income Auditor',hc:1,sh:'Office',d:['Verifies nightly revenue postings','Cross-checks POS with PMS totals','Investigates billing discrepancies']},
+  {c:'FA-05',t:'Cost Controller',hc:1,sh:'Office',d:['Tracks food, beverage & amenity costs','Runs monthly stock valuations','Flags wastage and variances']},
+  {c:'FA-06',t:'Purchasing Officer',hc:1,sh:'Office',d:['Raises and follows up purchase orders','Sources 3 quotations per purchase','Maintains supplier records']},
+  {c:'FA-07',t:'General Cashier',hc:1,sh:'Day',d:['Handles cash floats & exchanges','Banks daily takings securely','Issues official receipts']}],
+ tree:{j:0,ch:[{j:1},{j:2},{j:3},{j:4},{j:5},{j:6}]}},
+
+{id:'sm',name:'Sales & Marketing',icon:'📣',color:'#b9a3e0',mission:'Fill the hotel at the best rate — OTA strategy, direct bookings, corporate sales and brand presence.',
+ kpis:['Occupancy %','Direct booking share','OTA ranking & rating','RevPAR growth'],
+ module:'Channel Manager & CRM module — OTA sync, rate plans, promotions, guest database.',
+ jobs:[
+  {c:'SM-01',t:'Sales & Marketing Manager',hc:1,sh:'Office',d:['Owns occupancy, rates & marketing plan','Negotiates OTA & corporate contracts','Leads promotions and campaigns']},
+  {c:'SM-02',t:'Sales Executive (Corporate & MICE)',hc:1,sh:'Office',d:['Wins corporate & group business','Handles event & function enquiries','Maintains sales pipeline']},
+  {c:'SM-03',t:'Digital Marketing Executive',hc:1,sh:'Office',d:['Runs social media & website content','Manages ads, photos & SEO','Tracks campaign performance']},
+  {c:'SM-04',t:'OTA & Reservations Coordinator',hc:1,sh:'Office',d:['Keeps OTA listings fresh & ranked','Syncs rates and availability','Answers booking queries fast']},
+  {c:'SM-05',t:'Events & PR Executive',hc:1,sh:'Office',d:['Promotes experiences & packages','Coordinates press & influencer visits','Supports on-property events']}],
+ tree:{j:0,ch:[{j:1},{j:2},{j:3},{j:4}]}},
+
+{id:'hr',name:'Human Resources',icon:'🤝',color:'#e0a3b5',mission:'Right people, trained well, treated fairly — recruitment, training, welfare and administration.',
+ kpis:['Staff turnover %','Training hours/staff','Attendance & punctuality','Employee satisfaction'],
+ module:'HR & Payroll module — staff records, attendance, rosters, payroll, training logs.',
+ jobs:[
+  {c:'HR-01',t:'Human Resources Manager',hc:1,sh:'Office',d:['Owns hiring, contracts & policies','Runs performance & salary reviews','Handles discipline and grievances']},
+  {c:'HR-02',t:'Training & Development Officer',hc:1,sh:'Office',d:['Plans induction & skills training','Tracks certifications (hygiene, fire)','Runs service-quality workshops']},
+  {c:'HR-03',t:'HR / Admin Assistant',hc:1,sh:'Office',d:['Maintains staff files & attendance','Processes payroll inputs','Manages uniforms and ID cards']},
+  {c:'HR-04',t:'Staff Canteen & Welfare Supervisor',hc:1,sh:'Day',d:['Runs staff meals and rest areas','Coordinates duty transport','Supports staff welfare events']}],
+ tree:{j:0,ch:[{j:1},{j:2},{j:3}]}},
+
+{id:'en',name:'Engineering & Maintenance',icon:'🔧',color:'#c9d18f',mission:'Everything works — power, water, AC, hot water, building and grounds kept safe and perfect.',
+ kpis:['Breakdown response time','Preventive maintenance completion','Energy cost/room','Guest complaint rate'],
+ module:'Maintenance module — work orders, preventive schedules, asset register, energy log.',
+ jobs:[
+  {c:'EN-01',t:'Chief Engineer',hc:1,sh:'Day',d:['Owns all plant, building & utilities','Plans preventive maintenance calendar','Controls energy & repair budgets']},
+  {c:'EN-02',t:'Shift Engineer (Electrical)',hc:1,sh:'Rotating',d:['Fixes electrical faults fast','Checks panels, pumps & generators','Logs daily plant readings']},
+  {c:'EN-03',t:'Technician (Plumbing & Mechanical)',hc:1,sh:'Rotating',d:['Repairs water, drainage & fittings','Services pumps and heaters','Supports kitchen equipment fixes']},
+  {c:'EN-04',t:'HVAC / AC Technician',hc:1,sh:'Day',d:['Services air-conditioning units','Balances ventilation','Keeps cold rooms and fridges running']},
+  {c:'EN-05',t:'Handyman / Painter',hc:1,sh:'Day',d:['Patch repairs, touch-ups & painting','Assembles and fixes furniture','Supports event setups']},
+  {c:'EN-06',t:'Grounds & Pool Attendant',hc:1,sh:'Day',d:['Tests and treats pool water','Keeps walkways & decks safe','Assists garden upkeep']}],
+ tree:{j:0,ch:[{j:1},{j:2},{j:3},{j:4},{j:5}]}},
+
+{id:'se',name:'Security & Safety',icon:'🛡️',color:'#d89a9a',mission:'Guests, staff and property protected 24/7 — access control, patrols, CCTV and fire safety.',
+ kpis:['Zero security incidents','Patrol completion 100%','Fire drill compliance','Key control accuracy'],
+ module:'Security module — key-card system, CCTV log, incident reports, visitor register.',
+ jobs:[
+  {c:'SE-01',t:'Chief Security Officer',hc:1,sh:'Day',d:['Owns security policy & rosters','Leads emergency response plan','Liaises with police & authorities']},
+  {c:'SE-02',t:'Security Supervisor',hc:2,sh:'Rotating',d:['Runs a shift of the guard team','Handles incidents and reports','Checks patrols and posts']},
+  {c:'SE-03',t:'Security Guard',hc:6,sh:'Rotating',d:['Gates, lobby and perimeter posts','Hourly patrols with checkpoints','Assists guests and controls access']},
+  {c:'SE-04',t:'CCTV / Control Room Operator',hc:2,sh:'Rotating',d:['Monitors cameras 24/7','Logs incidents and playback requests','Coordinates radio responses']},
+  {c:'SE-05',t:'Fire & Safety Officer',hc:1,sh:'Office',d:['Maintains extinguishers & alarms','Runs fire drills and training','Keeps safety records and permits']}],
+ tree:{j:0,ch:[{j:1,ch:[{j:2}]},{j:3},{j:4}]}},
+
+{id:'it',name:'Information Technology',icon:'💻',color:'#7fd4d4',mission:'Systems always up — PMS, Wi-Fi, network, data backups and the digital guest journey.',
+ kpis:['System uptime 99.9%','Backup success 100%','Support ticket resolution time','Wi-Fi guest rating'],
+ module:'System Administration — user roles & permissions, backups, integrations, data security.',
+ jobs:[
+  {c:'IT-01',t:'IT Manager',hc:1,sh:'Office',d:['Owns all hotel systems & network','Plans IT budget and upgrades','Leads data security & backups']},
+  {c:'IT-02',t:'PMS / Systems Administrator',hc:1,sh:'Office',d:['Configures PMS users & rates','Manages OTA/channel integrations','Runs reports for management']},
+  {c:'IT-03',t:'IT Support Technician',hc:1,sh:'Rotating',d:['Fixes staff hardware & software issues','Supports guest Wi-Fi problems','Maintains printers & devices']},
+  {c:'IT-04',t:'Network & Telecoms Assistant',hc:1,sh:'Day',d:['Monitors network & internet links','Maintains phones and CCTV links','Cables and labels new points']}],
+ tree:{j:0,ch:[{j:1},{j:2},{j:3}]}},
+
+{id:'ps',name:'Procurement & Stores',icon:'📦',color:'#c9b29a',mission:'Right goods, right time, right price — receiving, storage and issue of all hotel supplies.',
+ kpis:['Stock accuracy %','Purchase price variance','Zero stock-outs of essentials','Receiving accuracy'],
+ module:'Inventory / Store module — GRN, issue vouchers, stock counts, reorder levels.',
+ jobs:[
+  {c:'PS-01',t:'Purchasing Manager',hc:1,sh:'Office',d:['Owns supplier contracts & prices','Approves purchase requisitions','Coordinates with Cost Controller']},
+  {c:'PS-02',t:'Storekeeper',hc:1,sh:'Day',d:['Issues goods against vouchers','Runs monthly stock counts','Keeps stores clean and organized']},
+  {c:'PS-03',t:'Receiving Clerk',hc:1,sh:'Day',d:['Checks deliveries vs orders','Weighs and inspects fresh goods','Posts GRNs into the system']},
+  {c:'PS-04',t:'Dry Store / Chiller Keeper',hc:1,sh:'Day',d:['Rotates stock (FIFO)','Monitors chiller & freezer temps','Prepares daily kitchen issues']}],
+ tree:{j:0,ch:[{j:1},{j:2},{j:3}]}}
+];
+
+/* ================= RENDER ================= */
+const $=s=>document.querySelector(s);
+let totalHC=1, totalJobs=1; // + GM
+
+function deptHC(d){return d.jobs.reduce((a,j)=>a+j.hc,0)}
+ORG.forEach(d=>{totalHC+=deptHC(d);totalJobs+=d.jobs.length});
+
+/* stats */
+$('#stats').innerHTML=`
+ <div class="stat"><b>10</b><span>DEPARTMENTS</span></div>
+ <div class="stat"><b>${totalJobs}</b><span>JOB ROLES (INCL. GM)</span></div>
+ <div class="stat"><b>~${totalHC}</b><span>STAFF AT FULL COMPLEMENT</span></div>
+ <div class="stat"><b>4–5</b><span>HIERARCHY LEVELS</span></div>`;
+
+/* top tree department row */
+$('#deptrow').innerHTML=ORG.map(d=>`
+ <li><a href="#d-${d.id}"><span class="node" style="border-color:${d.color}66">
+   <span class="ic">${d.icon}</span><b>${d.name}</b>
+   <small>Head: ${d.jobs[0].t}</small>
+   <span class="hc">👥 ${deptHC(d)} staff</span>
+ </span></a></li>`).join('');
+
+/* department cards */
+function jobHTML(d,node,depth){
+  const j=d.jobs[node.j];
+  const isHead=depth===0;
+  let html=`<li>
+    <div class="jobrow">
+      <span class="dot" style="background:${d.color}"></span>
+      <b>${j.t}</b>
+      <span class="code">${j.c}</span>
+      ${isHead?'<span class="tag">DEPT HEAD</span>':''}
+      <span class="rep">· HC ${j.hc} · ${j.sh} shift</span>
+    </div>
+    <ul class="duties" style="display:none" id="dut-${d.id}-${node.j}">${j.d.map(x=>`<li>${x}</li>`).join('')}</ul>
+    <button class="dtoggle" onclick="toggleDuties('dut-${d.id}-${node.j}',this)">▸ show key duties</button>`;
+  if(node.ch) html+=`<ul>${node.ch.map(c=>jobHTML(d,c,depth+1)).join('')}</ul>`;
+  return html+`</li>`;
+}
+function toggleDuties(id,btn){
+  const el=document.getElementById(id);
+  const open=el.style.display!=='none';
+  el.style.display=open?'none':'block';
+  btn.textContent=open?'▸ show key duties':'▾ hide key duties';
+}
+$('#depts').innerHTML=ORG.map(d=>`
+ <div class="dept" id="d-${d.id}">
+   <div class="dept-head" onclick="this.parentNode.classList.toggle('open')">
+     <span class="d-ic" style="border-color:${d.color}66">${d.icon}</span>
+     <div><h3>${d.name} Department</h3>
+       <div class="meta">Head: <b>${d.jobs[0].t}</b> · Reports to: General Manager</div></div>
+     <div class="badge"><span class="pill">👥 ${deptHC(d)} staff</span><span class="pill">${d.jobs.length} roles</span></div>
+     <span class="chev">▾</span>
+   </div>
+   <div class="dept-body">
+     <p class="mission">${d.mission}</p>
+     <div class="kpis">${d.kpis.map(k=>`<span>KPI · ${k}</span>`).join('')}</div>
+     <div class="dline"><ul>${jobHTML(d,d.tree,0)}</ul></div>
+   </div>
+ </div>`).join('');
+document.querySelector('#d-fo').classList.add('open');
+
+function setAll(open){document.querySelectorAll('.dept').forEach(d=>d.classList.toggle('open',open))}
+
+/* matrix */
+const fSel=$('#fd');
+ORG.forEach(d=>{const o=document.createElement('option');o.value=d.id;o.textContent=d.icon+' '+d.name;fSel.appendChild(o)});
+function flatJobs(){
+  const out=[];
+  const walk=(d,node,parent)=>{
+    const j=d.jobs[node.j];
+    out.push({d,j,parent});
+    if(node.ch)node.ch.forEach(c=>walk(d,c,j.t));
+  };
+  ORG.forEach(d=>walk(d,d.tree,'General Manager'));
+  return out;
+}
+const FLAT=flatJobs();
+function renderMatrix(){
+  const q=$('#q').value.trim().toLowerCase(),fd=$('#fd').value,fs=$('#fs').value;
+  const rows=FLAT.filter(r=>
+    (!q||r.j.t.toLowerCase().includes(q)||r.j.c.toLowerCase().includes(q))&&
+    (!fd||r.d.id===fd)&&(!fs||r.j.sh===fs));
+  $('#mbody').innerHTML=rows.length?rows.map(r=>`
+    <tr><td class="mono">${r.j.c}</td><td><b>${r.j.t}</b></td>
+    <td><span class="dchip" style="border-color:${r.d.color}55"><i style="background:${r.d.color}"></i>${r.d.name}</span></td>
+    <td>${r.parent}</td><td>${r.j.hc}</td><td>${r.j.sh}</td><td class="mono">${r.j.d[0]}</td></tr>`).join('')
+   :'<tr><td colspan="7" style="text-align:center;color:var(--mut);padding:26px">No matching roles</td></tr>';
+  $('#mcount').textContent=`${rows.length} of ${FLAT.length} roles`;
+}
+renderMatrix();
+
+/* modules */
+$('#mods').innerHTML=ORG.map(d=>`
+ <div class="card"><h4>${d.icon} ${d.name}</h4>
+   <p>${d.mission}</p><div class="m">🖥 ${d.module}</div></div>`).join('');
+
+/* totop */
+addEventListener('scroll',()=>{$('#totop').style.display=scrollY>600?'inline-flex':'none'});
+</script>
+</body>
+</html>
