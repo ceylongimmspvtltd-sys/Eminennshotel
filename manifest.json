@@ -1,0 +1,24 @@
+{
+  "name": "Eminence Shire Ella \u2014 Admin",
+  "short_name": "Eminence Admin",
+  "description": "Eminence Shire Ella staff panel \u2014 bookings, registrations, invoices",
+  "start_url": "admin.html",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1a14",
+  "theme_color": "#0e6b4a",
+  "icons": [
+    {
+      "src": "brand/favicon.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "brand/logo.png",
+      "sizes": "760x771",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
