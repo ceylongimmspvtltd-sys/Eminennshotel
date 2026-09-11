@@ -1,0 +1,409 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1553" height="1650" viewBox="0 0 1553 1650">
+<rect width="100%" height="100%" fill="#fffdf8"/>
+<text x="0" y="26" font-family="Georgia,serif" font-size="20" font-weight="bold" fill="#14382b">Eminence Shire Ella — Full Organization Chart (Hotel Management System)</text>
+<text x="0" y="44" font-family="Helvetica,Arial" font-size="10" fill="#8a948d">10 departments · 74 job roles · ~114 staff · Department-wise &amp; job-wise · September 2026</text>
+<rect x="455.6" y="70" width="208.0" height="42.0" rx="6" fill="#14382b" stroke="#d9b26a" stroke-width="1.6"/>
+<text x="559.6" y="89.0" text-anchor="middle" font-family="Georgia,serif" font-size="13.5" font-weight="bold" fill="#d9b26a">Owners / Board of Directors</text>
+<text x="559.6" y="103.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="8" fill="#8fd6b4">Ownership · Investment · Policy approval</text>
+<path d="M559.6,112.0 V146.0" stroke="#9aa89f" fill="none"/>
+<rect x="455.6" y="146.0" width="208.0" height="46.0" rx="6" fill="#1e7a5a" stroke="#8fd6b4" stroke-width="1.4"/>
+<text x="559.6" y="167.0" text-anchor="middle" font-family="Georgia,serif" font-size="14" font-weight="bold" fill="#ffffff">General Manager  (GM-00)</text>
+<text x="559.6" y="183.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="8" fill="#f6f1e4">Overall leadership of the hotel · Reports to the Board</text>
+<path d="M559.6,192.0 V208.8 H1049.1999999999998" fill="none" stroke="#9aa89f"/>
+<path d="M70.0,208.8 V226.0" fill="none" stroke="#9aa89f"/>
+<rect x="20.0" y="226.0" width="100.0" height="62.0" rx="4" fill="#faf4ea" stroke="#d9b26a" stroke-width="1.2"/>
+<text x="70.0" y="239.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="8.6" font-weight="bold" fill="#14231c">Front Office</text>
+<text x="70.0" y="249.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="6.9" fill="#8a948d">Head: Front Office Manager</text>
+<text x="70.0" y="282.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="7" font-weight="bold" fill="#8a6a2f">Staff: 19</text>
+<path d="M178.8,208.8 V226.0" fill="none" stroke="#9aa89f"/>
+<rect x="128.8" y="226.0" width="100.0" height="62.0" rx="4" fill="#eff9f4" stroke="#8fd6b4" stroke-width="1.2"/>
+<text x="178.8" y="239.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="8.6" font-weight="bold" fill="#14231c">Housekeeping</text>
+<text x="178.8" y="249.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="6.9" fill="#8a948d">Head: Executive</text>
+<text x="178.8" y="257.4" text-anchor="middle" font-family="Helvetica,Arial" font-size="6.9" fill="#8a948d">Housekeeper</text>
+<text x="178.8" y="282.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="7" font-weight="bold" fill="#8a6a2f">Staff: 21</text>
+<path d="M287.6,208.8 V226.0" fill="none" stroke="#9aa89f"/>
+<rect x="237.60000000000002" y="226.0" width="100.0" height="62.0" rx="4" fill="#fcf0ed" stroke="#e8927c" stroke-width="1.2"/>
+<text x="287.6" y="239.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="8.6" font-weight="bold" fill="#14231c">Food &amp; Beverage</text>
+<text x="287.6" y="249.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="6.9" fill="#8a948d">Head: Food &amp; Beverage</text>
+<text x="287.6" y="257.4" text-anchor="middle" font-family="Helvetica,Arial" font-size="6.9" fill="#8a948d">Manager</text>
+<text x="287.6" y="282.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="7" font-weight="bold" fill="#8a6a2f">Staff: 31</text>
+<path d="M396.4,208.8 V226.0" fill="none" stroke="#9aa89f"/>
+<rect x="346.4" y="226.0" width="100.0" height="62.0" rx="4" fill="#eff7fc" stroke="#8fc3e8" stroke-width="1.2"/>
+<text x="396.4" y="239.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="8.6" font-weight="bold" fill="#14231c">Finance &amp; Accounts</text>
+<text x="396.4" y="249.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="6.9" fill="#8a948d">Head: Finance Manager /</text>
+<text x="396.4" y="257.4" text-anchor="middle" font-family="Helvetica,Arial" font-size="6.9" fill="#8a948d">Chief Accountant</text>
+<text x="396.4" y="282.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="7" font-weight="bold" fill="#8a6a2f">Staff: 7</text>
+<path d="M505.2,208.8 V226.0" fill="none" stroke="#9aa89f"/>
+<rect x="455.2" y="226.0" width="100.0" height="62.0" rx="4" fill="#f5f2fb" stroke="#b9a3e0" stroke-width="1.2"/>
+<text x="505.2" y="239.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="8.6" font-weight="bold" fill="#14231c">Sales &amp; Marketing</text>
+<text x="505.2" y="249.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="6.9" fill="#8a948d">Head: Sales &amp; Marketing</text>
+<text x="505.2" y="257.4" text-anchor="middle" font-family="Helvetica,Arial" font-size="6.9" fill="#8a948d">Manager</text>
+<text x="505.2" y="282.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="7" font-weight="bold" fill="#8a6a2f">Staff: 5</text>
+<path d="M614.0,208.8 V226.0" fill="none" stroke="#9aa89f"/>
+<rect x="564.0" y="226.0" width="100.0" height="62.0" rx="4" fill="#fbf2f5" stroke="#e0a3b5" stroke-width="1.2"/>
+<text x="614.0" y="239.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="8.6" font-weight="bold" fill="#14231c">Human Resources</text>
+<text x="614.0" y="249.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="6.9" fill="#8a948d">Head: Human Resources</text>
+<text x="614.0" y="257.4" text-anchor="middle" font-family="Helvetica,Arial" font-size="6.9" fill="#8a948d">Manager</text>
+<text x="614.0" y="282.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="7" font-weight="bold" fill="#8a6a2f">Staff: 4</text>
+<path d="M722.8,208.8 V226.0" fill="none" stroke="#9aa89f"/>
+<rect x="672.8" y="226.0" width="100.0" height="62.0" rx="4" fill="#f7f9ef" stroke="#c9d18f" stroke-width="1.2"/>
+<text x="722.8" y="239.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="8.6" font-weight="bold" fill="#14231c">Engineering &amp;</text>
+<text x="722.8" y="249.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="8.6" font-weight="bold" fill="#14231c">Maintenance</text>
+<text x="722.8" y="259.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="6.9" fill="#8a948d">Head: Chief Engineer</text>
+<text x="722.8" y="282.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="7" font-weight="bold" fill="#8a6a2f">Staff: 6</text>
+<path d="M831.6,208.8 V226.0" fill="none" stroke="#9aa89f"/>
+<rect x="781.6" y="226.0" width="100.0" height="62.0" rx="4" fill="#faf1f1" stroke="#d89a9a" stroke-width="1.2"/>
+<text x="831.6" y="239.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="8.6" font-weight="bold" fill="#14231c">Security &amp; Safety</text>
+<text x="831.6" y="249.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="6.9" fill="#8a948d">Head: Chief Security Officer</text>
+<text x="831.6" y="282.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="7" font-weight="bold" fill="#8a6a2f">Staff: 12</text>
+<path d="M940.4,208.8 V226.0" fill="none" stroke="#9aa89f"/>
+<rect x="890.4" y="226.0" width="100.0" height="62.0" rx="4" fill="#edf9f9" stroke="#7fd4d4" stroke-width="1.2"/>
+<text x="940.4" y="239.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="8.6" font-weight="bold" fill="#14231c">Information</text>
+<text x="940.4" y="249.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="8.6" font-weight="bold" fill="#14231c">Technology</text>
+<text x="940.4" y="259.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="6.9" fill="#8a948d">Head: IT Manager</text>
+<text x="940.4" y="282.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="7" font-weight="bold" fill="#8a6a2f">Staff: 4</text>
+<path d="M1049.1999999999998,208.8 V226.0" fill="none" stroke="#9aa89f"/>
+<rect x="999.1999999999998" y="226.0" width="100.0" height="62.0" rx="4" fill="#f7f4f1" stroke="#c9b29a" stroke-width="1.2"/>
+<text x="1049.1999999999998" y="239.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="8.6" font-weight="bold" fill="#14231c">Procurement &amp; Stores</text>
+<text x="1049.1999999999998" y="249.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="6.9" fill="#8a948d">Head: Purchasing Manager</text>
+<text x="1049.1999999999998" y="282.0" text-anchor="middle" font-family="Helvetica,Arial" font-size="7" font-weight="bold" fill="#8a6a2f">Staff: 4</text>
+<rect x="0" y="358.0" width="10" height="10" rx="2" fill="#d9b26a"/>
+<text x="16" y="372.0" font-family="Georgia,serif" font-size="15" font-weight="bold" fill="#14231c">Front Office Department</text>
+<text x="16" y="386.0" font-family="Helvetica,Arial" font-size="8.5" fill="#8a948d">Head: Front Office Manager · 19 staff · 13 roles</text>
+<path d="M485.2,442.0 V454.4 H485.2 V466.8" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M485.2,506.8 V519.2 H213.2 V531.6" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M485.2,506.8 V519.2 H485.2 V531.6" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M485.2,506.8 V519.2 H594.0 V531.6" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M485.2,506.8 V519.2 H757.2 V531.6" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M485.2,506.8 V519.2 H920.4 V531.6" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M213.2,571.6 V584.0 H50.0 V596.4" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M213.2,571.6 V584.0 H158.8 V596.4" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M213.2,571.6 V584.0 H267.6 V596.4" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M213.2,571.6 V584.0 H376.4 V596.4" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M757.2,571.6 V584.0 H702.8 V596.4" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M757.2,571.6 V584.0 H811.6 V596.4" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<rect x="435.2" y="402.0" width="100.0" height="40.0" rx="4" fill="#d9b26a" stroke="#d9b26a" stroke-width="1.2"/>
+<text x="485.2" y="420.4" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#ffffff">Front Office Manager</text>
+<text x="485.2" y="430.2" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#ffffff">FO-01 · HC 1</text>
+<rect x="435.2" y="466.8" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#d9b26a" stroke-width="1.2"/>
+<text x="485.2" y="480.3" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Assistant Front Office</text>
+<text x="485.2" y="490.1" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Manager</text>
+<text x="485.2" y="499.90000000000003" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">FO-02 · HC 1</text>
+<rect x="163.2" y="531.6" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#d9b26a" stroke-width="1.2"/>
+<text x="213.2" y="545.1" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Front Office Supervisor</text>
+<text x="213.2" y="554.9" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">(Shift Leader)</text>
+<text x="213.2" y="564.6999999999999" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">FO-03 · HC 2</text>
+<rect x="0.0" y="596.4" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#d9b26a" stroke-width="1.2"/>
+<text x="50.0" y="614.8000000000001" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Senior Receptionist</text>
+<text x="50.0" y="624.6" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">FO-04 · HC 2</text>
+<rect x="108.80000000000001" y="596.4" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#d9b26a" stroke-width="1.2"/>
+<text x="158.8" y="609.9" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Receptionist / Guest</text>
+<text x="158.8" y="619.6999999999999" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Service Agent</text>
+<text x="158.8" y="629.4999999999999" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">FO-05 · HC 4</text>
+<rect x="217.60000000000002" y="596.4" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#d9b26a" stroke-width="1.2"/>
+<text x="267.6" y="614.8000000000001" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Reservation Agent</text>
+<text x="267.6" y="624.6" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">FO-06 · HC 1</text>
+<rect x="326.4" y="596.4" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#d9b26a" stroke-width="1.2"/>
+<text x="376.4" y="614.8000000000001" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Night Auditor</text>
+<text x="376.4" y="624.6" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">FO-07 · HC 1</text>
+<rect x="435.2" y="531.6" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#d9b26a" stroke-width="1.2"/>
+<text x="485.2" y="550.0000000000001" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Concierge</text>
+<text x="485.2" y="559.8000000000001" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">FO-08 · HC 1</text>
+<rect x="544.0" y="531.6" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#d9b26a" stroke-width="1.2"/>
+<text x="594.0" y="545.1" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Guest Relations</text>
+<text x="594.0" y="554.9" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Executive</text>
+<text x="594.0" y="564.6999999999999" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">FO-09 · HC 1</text>
+<rect x="707.2" y="531.6" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#d9b26a" stroke-width="1.2"/>
+<text x="757.2" y="550.0000000000001" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Bell Captain</text>
+<text x="757.2" y="559.8000000000001" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">FO-10 · HC 1</text>
+<rect x="652.8" y="596.4" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#d9b26a" stroke-width="1.2"/>
+<text x="702.8" y="614.8000000000001" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Bell Boy / Porter</text>
+<text x="702.8" y="624.6" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">FO-11 · HC 2</text>
+<rect x="761.6" y="596.4" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#d9b26a" stroke-width="1.2"/>
+<text x="811.6" y="614.8000000000001" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Door Person</text>
+<text x="811.6" y="624.6" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">FO-12 · HC 1</text>
+<rect x="870.4" y="531.6" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#d9b26a" stroke-width="1.2"/>
+<text x="920.4" y="545.1" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Airport / Station</text>
+<text x="920.4" y="554.9" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Transfer Driver</text>
+<text x="920.4" y="564.6999999999999" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">FO-13 · HC 1</text>
+<rect x="1018.4" y="358.0" width="10" height="10" rx="2" fill="#8fd6b4"/>
+<text x="1034.4" y="372.0" font-family="Georgia,serif" font-size="15" font-weight="bold" fill="#14231c">Housekeeping Department</text>
+<text x="1034.4" y="386.0" font-family="Helvetica,Arial" font-size="8.5" fill="#8a948d">Head: Executive Housekeeper · 21 staff · 10 roles</text>
+<path d="M1286.0,442.0 V454.4 H1177.2 V466.8" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M1286.0,442.0 V454.4 H1394.8 V466.8" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M1286.0,442.0 V454.4 H1503.6 V466.8" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M1177.2,506.8 V519.2 H1068.4 V531.6" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M1177.2,506.8 V519.2 H1177.2 V531.6" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M1177.2,506.8 V519.2 H1286.0 V531.6" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M1068.4,571.6 V584.0 H1068.4 V596.4" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M1177.2,571.6 V584.0 H1177.2 V596.4" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M1394.8,506.8 V519.2 H1394.8 V531.6" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<rect x="1236.0" y="402.0" width="100.0" height="40.0" rx="4" fill="#8fd6b4" stroke="#8fd6b4" stroke-width="1.2"/>
+<text x="1286.0" y="415.5" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#ffffff">Executive</text>
+<text x="1286.0" y="425.3" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#ffffff">Housekeeper</text>
+<text x="1286.0" y="435.1" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#ffffff">HK-01 · HC 1</text>
+<rect x="1127.2" y="466.8" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#8fd6b4" stroke-width="1.2"/>
+<text x="1177.2" y="480.3" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Assistant Executive</text>
+<text x="1177.2" y="490.1" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Housekeeper</text>
+<text x="1177.2" y="499.90000000000003" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">HK-02 · HC 1</text>
+<rect x="1018.4000000000001" y="531.6" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#8fd6b4" stroke-width="1.2"/>
+<text x="1068.4" y="550.0000000000001" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Floor Supervisor</text>
+<text x="1068.4" y="559.8000000000001" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">HK-03 · HC 2</text>
+<rect x="1018.4000000000001" y="596.4" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#8fd6b4" stroke-width="1.2"/>
+<text x="1068.4" y="614.8000000000001" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Room Attendant</text>
+<text x="1068.4" y="624.6" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">HK-04 · HC 8</text>
+<rect x="1127.2" y="531.6" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#8fd6b4" stroke-width="1.2"/>
+<text x="1177.2" y="550.0000000000001" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Public Area Supervisor</text>
+<text x="1177.2" y="559.8000000000001" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">HK-05 · HC 1</text>
+<rect x="1127.2" y="596.4" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#8fd6b4" stroke-width="1.2"/>
+<text x="1177.2" y="614.8000000000001" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Public Area Attendant</text>
+<text x="1177.2" y="624.6" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">HK-06 · HC 3</text>
+<rect x="1236.0" y="531.6" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#8fd6b4" stroke-width="1.2"/>
+<text x="1286.0" y="545.1" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Linen &amp; Uniform</text>
+<text x="1286.0" y="554.9" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Attendant</text>
+<text x="1286.0" y="564.6999999999999" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">HK-07 · HC 1</text>
+<rect x="1344.8" y="466.8" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#8fd6b4" stroke-width="1.2"/>
+<text x="1394.8" y="485.2" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Laundry Manager</text>
+<text x="1394.8" y="495.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">HK-08 · HC 1</text>
+<rect x="1344.8" y="531.6" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#8fd6b4" stroke-width="1.2"/>
+<text x="1394.8" y="545.1" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Laundry Attendant /</text>
+<text x="1394.8" y="554.9" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Presser</text>
+<text x="1394.8" y="564.6999999999999" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">HK-09 · HC 2</text>
+<rect x="1453.6" y="466.8" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#8fd6b4" stroke-width="1.2"/>
+<text x="1503.6" y="485.2" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Gardener</text>
+<text x="1503.6" y="495.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">HK-10 · HC 1</text>
+<rect x="0" y="662.4" width="10" height="10" rx="2" fill="#e8927c"/>
+<text x="16" y="676.4" font-family="Georgia,serif" font-size="15" font-weight="bold" fill="#14231c">Food &amp; Beverage Department</text>
+<text x="16" y="690.4" font-family="Helvetica,Arial" font-size="8.5" fill="#8a948d">Head: Food & Beverage Manager · 31 staff · 15 roles</text>
+<path d="M430.8,746.4 V758.8 H213.2 V771.1999999999999" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M430.8,746.4 V758.8 H594.0 V771.1999999999999" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M430.8,746.4 V758.8 H811.6 V771.1999999999999" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M213.2,811.1999999999999 V823.5999999999999 H104.4 V836.0" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M213.2,811.1999999999999 V823.5999999999999 H267.6 V836.0" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M213.2,811.1999999999999 V823.5999999999999 H376.4 V836.0" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M104.4,876.0 V888.4 H50.0 V900.8" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M104.4,876.0 V888.4 H158.8 V900.8" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M594.0,811.1999999999999 V823.5999999999999 H539.6 V836.0" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M594.0,811.1999999999999 V823.5999999999999 H702.8 V836.0" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M539.6,876.0 V888.4 H485.2 V900.8" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M539.6,876.0 V888.4 H594.0 V900.8" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M485.2,940.8 V953.1999999999999 H485.2 V965.5999999999999" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M811.6,811.1999999999999 V823.5999999999999 H811.6 V836.0" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<rect x="380.8" y="706.4" width="100.0" height="40.0" rx="4" fill="#e8927c" stroke="#e8927c" stroke-width="1.2"/>
+<text x="430.8" y="719.9" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#ffffff">Food &amp; Beverage</text>
+<text x="430.8" y="729.6999999999999" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#ffffff">Manager</text>
+<text x="430.8" y="739.4999999999999" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#ffffff">FB-01 · HC 1</text>
+<rect x="163.2" y="771.1999999999999" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#e8927c" stroke-width="1.2"/>
+<text x="213.2" y="789.6" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Restaurant Manager</text>
+<text x="213.2" y="799.4" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">FB-02 · HC 1</text>
+<rect x="54.400000000000006" y="836.0" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#e8927c" stroke-width="1.2"/>
+<text x="104.4" y="854.4000000000001" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Head Waiter / Captain</text>
+<text x="104.4" y="864.2" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">FB-03 · HC 2</text>
+<rect x="0.0" y="900.8" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#e8927c" stroke-width="1.2"/>
+<text x="50.0" y="919.2" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Waiter / Server</text>
+<text x="50.0" y="929.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">FB-04 · HC 6</text>
+<rect x="108.80000000000001" y="900.8" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#e8927c" stroke-width="1.2"/>
+<text x="158.8" y="919.2" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Hostess</text>
+<text x="158.8" y="929.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">FB-05 · HC 1</text>
+<rect x="217.60000000000002" y="836.0" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#e8927c" stroke-width="1.2"/>
+<text x="267.6" y="854.4000000000001" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Bartender / Barista</text>
+<text x="267.6" y="864.2" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">FB-06 · HC 2</text>
+<rect x="326.4" y="836.0" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#e8927c" stroke-width="1.2"/>
+<text x="376.4" y="849.5" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Room Service Order</text>
+<text x="376.4" y="859.3" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Taker</text>
+<text x="376.4" y="869.0999999999999" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">FB-07 · HC 1</text>
+<rect x="544.0" y="771.1999999999999" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#e8927c" stroke-width="1.2"/>
+<text x="594.0" y="789.6" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Executive Chef</text>
+<text x="594.0" y="799.4" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">FB-08 · HC 1</text>
+<rect x="489.6" y="836.0" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#e8927c" stroke-width="1.2"/>
+<text x="539.6" y="854.4000000000001" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Sous Chef</text>
+<text x="539.6" y="864.2" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">FB-09 · HC 2</text>
+<rect x="435.2" y="900.8" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#e8927c" stroke-width="1.2"/>
+<text x="485.2" y="919.2" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Chef de Partie</text>
+<text x="485.2" y="929.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">FB-10 · HC 3</text>
+<rect x="435.2" y="965.5999999999999" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#e8927c" stroke-width="1.2"/>
+<text x="485.2" y="984.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Commis Chef</text>
+<text x="485.2" y="993.8" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">FB-11 · HC 4</text>
+<rect x="544.0" y="900.8" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#e8927c" stroke-width="1.2"/>
+<text x="594.0" y="919.2" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Pastry Chef</text>
+<text x="594.0" y="929.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">FB-12 · HC 1</text>
+<rect x="652.8" y="836.0" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#e8927c" stroke-width="1.2"/>
+<text x="702.8" y="854.4000000000001" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Kitchen Helper</text>
+<text x="702.8" y="864.2" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">FB-13 · HC 2</text>
+<rect x="761.6" y="771.1999999999999" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#e8927c" stroke-width="1.2"/>
+<text x="811.6" y="789.6" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Chief Steward</text>
+<text x="811.6" y="799.4" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">FB-14 · HC 1</text>
+<rect x="761.6" y="836.0" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#e8927c" stroke-width="1.2"/>
+<text x="811.6" y="854.4000000000001" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Kitchen Steward</text>
+<text x="811.6" y="864.2" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">FB-15 · HC 3</text>
+<rect x="909.6" y="662.4" width="10" height="10" rx="2" fill="#8fc3e8"/>
+<text x="925.6" y="676.4" font-family="Georgia,serif" font-size="15" font-weight="bold" fill="#14231c">Finance &amp; Accounts Department</text>
+<text x="925.6" y="690.4" font-family="Helvetica,Arial" font-size="8.5" fill="#8a948d">Head: Finance Manager / Chief Accountant · 7 staff · 7 roles</text>
+<path d="M1231.6,746.4 V758.8 H959.6 V771.1999999999999" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M1231.6,746.4 V758.8 H1068.4 V771.1999999999999" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M1231.6,746.4 V758.8 H1177.2 V771.1999999999999" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M1231.6,746.4 V758.8 H1286.0 V771.1999999999999" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M1231.6,746.4 V758.8 H1394.8 V771.1999999999999" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M1231.6,746.4 V758.8 H1503.6 V771.1999999999999" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<rect x="1181.6" y="706.4" width="100.0" height="40.0" rx="4" fill="#8fc3e8" stroke="#8fc3e8" stroke-width="1.2"/>
+<text x="1231.6" y="719.9" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#ffffff">Finance Manager /</text>
+<text x="1231.6" y="729.6999999999999" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#ffffff">Chief Accountant</text>
+<text x="1231.6" y="739.4999999999999" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#ffffff">FA-01 · HC 1</text>
+<rect x="909.6" y="771.1999999999999" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#8fc3e8" stroke-width="1.2"/>
+<text x="959.6" y="789.6" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Senior Accountant</text>
+<text x="959.6" y="799.4" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">FA-02 · HC 1</text>
+<rect x="1018.4000000000001" y="771.1999999999999" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#8fc3e8" stroke-width="1.2"/>
+<text x="1068.4" y="784.6999999999999" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Accounts Assistant</text>
+<text x="1068.4" y="794.4999999999999" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">(AP / AR)</text>
+<text x="1068.4" y="804.2999999999998" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">FA-03 · HC 1</text>
+<rect x="1127.2" y="771.1999999999999" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#8fc3e8" stroke-width="1.2"/>
+<text x="1177.2" y="789.6" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Income Auditor</text>
+<text x="1177.2" y="799.4" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">FA-04 · HC 1</text>
+<rect x="1236.0" y="771.1999999999999" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#8fc3e8" stroke-width="1.2"/>
+<text x="1286.0" y="789.6" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Cost Controller</text>
+<text x="1286.0" y="799.4" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">FA-05 · HC 1</text>
+<rect x="1344.8" y="771.1999999999999" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#8fc3e8" stroke-width="1.2"/>
+<text x="1394.8" y="789.6" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Purchasing Officer</text>
+<text x="1394.8" y="799.4" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">FA-06 · HC 1</text>
+<rect x="1453.6" y="771.1999999999999" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#8fc3e8" stroke-width="1.2"/>
+<text x="1503.6" y="789.6" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">General Cashier</text>
+<text x="1503.6" y="799.4" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">FA-07 · HC 1</text>
+<rect x="0" y="1031.6" width="10" height="10" rx="2" fill="#b9a3e0"/>
+<text x="16" y="1045.6" font-family="Georgia,serif" font-size="15" font-weight="bold" fill="#14231c">Sales &amp; Marketing Department</text>
+<text x="16" y="1059.6" font-family="Helvetica,Arial" font-size="8.5" fill="#8a948d">Head: Sales & Marketing Manager · 5 staff · 5 roles</text>
+<path d="M213.2,1115.6 V1128.0 H50.0 V1140.3999999999999" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M213.2,1115.6 V1128.0 H158.8 V1140.3999999999999" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M213.2,1115.6 V1128.0 H267.6 V1140.3999999999999" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M213.2,1115.6 V1128.0 H376.4 V1140.3999999999999" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<rect x="163.2" y="1075.6" width="100.0" height="40.0" rx="4" fill="#b9a3e0" stroke="#b9a3e0" stroke-width="1.2"/>
+<text x="213.2" y="1089.1" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#ffffff">Sales &amp; Marketing</text>
+<text x="213.2" y="1098.8999999999999" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#ffffff">Manager</text>
+<text x="213.2" y="1108.6999999999998" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#ffffff">SM-01 · HC 1</text>
+<rect x="0.0" y="1140.3999999999999" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#b9a3e0" stroke-width="1.2"/>
+<text x="50.0" y="1153.8999999999999" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Sales Executive</text>
+<text x="50.0" y="1163.6999999999998" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">(Corporate &amp; MICE)</text>
+<text x="50.0" y="1173.4999999999998" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">SM-02 · HC 1</text>
+<rect x="108.80000000000001" y="1140.3999999999999" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#b9a3e0" stroke-width="1.2"/>
+<text x="158.8" y="1153.8999999999999" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Digital Marketing</text>
+<text x="158.8" y="1163.6999999999998" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Executive</text>
+<text x="158.8" y="1173.4999999999998" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">SM-03 · HC 1</text>
+<rect x="217.60000000000002" y="1140.3999999999999" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#b9a3e0" stroke-width="1.2"/>
+<text x="267.6" y="1153.8999999999999" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">OTA &amp; Reservations</text>
+<text x="267.6" y="1163.6999999999998" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Coordinator</text>
+<text x="267.6" y="1173.4999999999998" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">SM-04 · HC 1</text>
+<rect x="326.4" y="1140.3999999999999" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#b9a3e0" stroke-width="1.2"/>
+<text x="376.4" y="1158.8" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Events &amp; PR Executive</text>
+<text x="376.4" y="1168.6" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">SM-05 · HC 1</text>
+<rect x="474.4" y="1031.6" width="10" height="10" rx="2" fill="#e0a3b5"/>
+<text x="490.4" y="1045.6" font-family="Georgia,serif" font-size="15" font-weight="bold" fill="#14231c">Human Resources Department</text>
+<text x="490.4" y="1059.6" font-family="Helvetica,Arial" font-size="8.5" fill="#8a948d">Head: Human Resources Manager · 4 staff · 4 roles</text>
+<path d="M633.2,1115.6 V1128.0 H524.4 V1140.3999999999999" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M633.2,1115.6 V1128.0 H633.2 V1140.3999999999999" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M633.2,1115.6 V1128.0 H742.0 V1140.3999999999999" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<rect x="583.2" y="1075.6" width="100.0" height="40.0" rx="4" fill="#e0a3b5" stroke="#e0a3b5" stroke-width="1.2"/>
+<text x="633.2" y="1089.1" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#ffffff">Human Resources</text>
+<text x="633.2" y="1098.8999999999999" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#ffffff">Manager</text>
+<text x="633.2" y="1108.6999999999998" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#ffffff">HR-01 · HC 1</text>
+<rect x="474.4" y="1140.3999999999999" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#e0a3b5" stroke-width="1.2"/>
+<text x="524.4" y="1153.8999999999999" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Training &amp;</text>
+<text x="524.4" y="1163.6999999999998" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Development Officer</text>
+<text x="524.4" y="1173.4999999999998" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">HR-02 · HC 1</text>
+<rect x="583.2" y="1140.3999999999999" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#e0a3b5" stroke-width="1.2"/>
+<text x="633.2" y="1158.8" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">HR / Admin Assistant</text>
+<text x="633.2" y="1168.6" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">HR-03 · HC 1</text>
+<rect x="692.0" y="1140.3999999999999" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#e0a3b5" stroke-width="1.2"/>
+<text x="742.0" y="1153.8999999999999" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Staff Canteen &amp;</text>
+<text x="742.0" y="1163.6999999999998" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Welfare Supervisor</text>
+<text x="742.0" y="1173.4999999999998" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">HR-04 · HC 1</text>
+<rect x="0" y="1206.3999999999999" width="10" height="10" rx="2" fill="#c9d18f"/>
+<text x="16" y="1220.3999999999999" font-family="Georgia,serif" font-size="15" font-weight="bold" fill="#14231c">Engineering &amp; Maintenance Department</text>
+<text x="16" y="1234.3999999999999" font-family="Helvetica,Arial" font-size="8.5" fill="#8a948d">Head: Chief Engineer · 6 staff · 6 roles</text>
+<path d="M267.6,1290.3999999999999 V1302.7999999999997 H50.0 V1315.1999999999998" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M267.6,1290.3999999999999 V1302.7999999999997 H158.8 V1315.1999999999998" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M267.6,1290.3999999999999 V1302.7999999999997 H267.6 V1315.1999999999998" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M267.6,1290.3999999999999 V1302.7999999999997 H376.4 V1315.1999999999998" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M267.6,1290.3999999999999 V1302.7999999999997 H485.2 V1315.1999999999998" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<rect x="217.60000000000002" y="1250.3999999999999" width="100.0" height="40.0" rx="4" fill="#c9d18f" stroke="#c9d18f" stroke-width="1.2"/>
+<text x="267.6" y="1268.8" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#ffffff">Chief Engineer</text>
+<text x="267.6" y="1278.6" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#ffffff">EN-01 · HC 1</text>
+<rect x="0.0" y="1315.1999999999998" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#c9d18f" stroke-width="1.2"/>
+<text x="50.0" y="1328.6999999999998" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Shift Engineer</text>
+<text x="50.0" y="1338.4999999999998" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">(Electrical)</text>
+<text x="50.0" y="1348.2999999999997" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">EN-02 · HC 1</text>
+<rect x="108.80000000000001" y="1315.1999999999998" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#c9d18f" stroke-width="1.2"/>
+<text x="158.8" y="1328.6999999999998" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Technician (Plumbing</text>
+<text x="158.8" y="1338.4999999999998" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">&amp; Mechanical)</text>
+<text x="158.8" y="1348.2999999999997" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">EN-03 · HC 1</text>
+<rect x="217.60000000000002" y="1315.1999999999998" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#c9d18f" stroke-width="1.2"/>
+<text x="267.6" y="1333.6" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">HVAC / AC Technician</text>
+<text x="267.6" y="1343.3999999999999" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">EN-04 · HC 1</text>
+<rect x="326.4" y="1315.1999999999998" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#c9d18f" stroke-width="1.2"/>
+<text x="376.4" y="1333.6" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Handyman / Painter</text>
+<text x="376.4" y="1343.3999999999999" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">EN-05 · HC 1</text>
+<rect x="435.2" y="1315.1999999999998" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#c9d18f" stroke-width="1.2"/>
+<text x="485.2" y="1328.6999999999998" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Grounds &amp; Pool</text>
+<text x="485.2" y="1338.4999999999998" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Attendant</text>
+<text x="485.2" y="1348.2999999999997" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">EN-06 · HC 1</text>
+<rect x="583.2" y="1206.3999999999999" width="10" height="10" rx="2" fill="#d89a9a"/>
+<text x="599.2" y="1220.3999999999999" font-family="Georgia,serif" font-size="15" font-weight="bold" fill="#14231c">Security &amp; Safety Department</text>
+<text x="599.2" y="1234.3999999999999" font-family="Helvetica,Arial" font-size="8.5" fill="#8a948d">Head: Chief Security Officer · 12 staff · 5 roles</text>
+<path d="M742.0,1290.3999999999999 V1302.7999999999997 H633.2 V1315.1999999999998" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M742.0,1290.3999999999999 V1302.7999999999997 H742.0 V1315.1999999999998" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M742.0,1290.3999999999999 V1302.7999999999997 H850.8000000000001 V1315.1999999999998" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M633.2,1355.1999999999998 V1367.6 H633.2 V1379.9999999999998" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<rect x="692.0" y="1250.3999999999999" width="100.0" height="40.0" rx="4" fill="#d89a9a" stroke="#d89a9a" stroke-width="1.2"/>
+<text x="742.0" y="1268.8" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#ffffff">Chief Security Officer</text>
+<text x="742.0" y="1278.6" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#ffffff">SE-01 · HC 1</text>
+<rect x="583.2" y="1315.1999999999998" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#d89a9a" stroke-width="1.2"/>
+<text x="633.2" y="1333.6" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Security Supervisor</text>
+<text x="633.2" y="1343.3999999999999" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">SE-02 · HC 2</text>
+<rect x="583.2" y="1379.9999999999998" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#d89a9a" stroke-width="1.2"/>
+<text x="633.2" y="1398.3999999999999" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Security Guard</text>
+<text x="633.2" y="1408.1999999999998" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">SE-03 · HC 6</text>
+<rect x="692.0" y="1315.1999999999998" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#d89a9a" stroke-width="1.2"/>
+<text x="742.0" y="1328.6999999999998" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">CCTV / Control Room</text>
+<text x="742.0" y="1338.4999999999998" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Operator</text>
+<text x="742.0" y="1348.2999999999997" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">SE-04 · HC 2</text>
+<rect x="800.8000000000001" y="1315.1999999999998" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#d89a9a" stroke-width="1.2"/>
+<text x="850.8000000000001" y="1333.6" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Fire &amp; Safety Officer</text>
+<text x="850.8000000000001" y="1343.3999999999999" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">SE-05 · HC 1</text>
+<rect x="0" y="1445.9999999999998" width="10" height="10" rx="2" fill="#7fd4d4"/>
+<text x="16" y="1459.9999999999998" font-family="Georgia,serif" font-size="15" font-weight="bold" fill="#14231c">Information Technology Department</text>
+<text x="16" y="1473.9999999999998" font-family="Helvetica,Arial" font-size="8.5" fill="#8a948d">Head: IT Manager · 4 staff · 4 roles</text>
+<path d="M158.8,1529.9999999999998 V1542.3999999999996 H50.0 V1554.7999999999997" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M158.8,1529.9999999999998 V1542.3999999999996 H158.8 V1554.7999999999997" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M158.8,1529.9999999999998 V1542.3999999999996 H267.6 V1554.7999999999997" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<rect x="108.80000000000001" y="1489.9999999999998" width="100.0" height="40.0" rx="4" fill="#7fd4d4" stroke="#7fd4d4" stroke-width="1.2"/>
+<text x="158.8" y="1508.3999999999999" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#ffffff">IT Manager</text>
+<text x="158.8" y="1518.1999999999998" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#ffffff">IT-01 · HC 1</text>
+<rect x="0.0" y="1554.7999999999997" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#7fd4d4" stroke-width="1.2"/>
+<text x="50.0" y="1568.2999999999997" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">PMS / Systems</text>
+<text x="50.0" y="1578.0999999999997" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Administrator</text>
+<text x="50.0" y="1587.8999999999996" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">IT-02 · HC 1</text>
+<rect x="108.80000000000001" y="1554.7999999999997" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#7fd4d4" stroke-width="1.2"/>
+<text x="158.8" y="1573.1999999999998" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">IT Support Technician</text>
+<text x="158.8" y="1582.9999999999998" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">IT-03 · HC 1</text>
+<rect x="217.60000000000002" y="1554.7999999999997" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#7fd4d4" stroke-width="1.2"/>
+<text x="267.6" y="1568.2999999999997" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Network &amp; Telecoms</text>
+<text x="267.6" y="1578.0999999999997" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Assistant</text>
+<text x="267.6" y="1587.8999999999996" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">IT-04 · HC 1</text>
+<rect x="365.6" y="1445.9999999999998" width="10" height="10" rx="2" fill="#c9b29a"/>
+<text x="381.6" y="1459.9999999999998" font-family="Georgia,serif" font-size="15" font-weight="bold" fill="#14231c">Procurement &amp; Stores Department</text>
+<text x="381.6" y="1473.9999999999998" font-family="Helvetica,Arial" font-size="8.5" fill="#8a948d">Head: Purchasing Manager · 4 staff · 4 roles</text>
+<path d="M524.4000000000001,1529.9999999999998 V1542.3999999999996 H415.6 V1554.7999999999997" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M524.4000000000001,1529.9999999999998 V1542.3999999999996 H524.4000000000001 V1554.7999999999997" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<path d="M524.4000000000001,1529.9999999999998 V1542.3999999999996 H633.2 V1554.7999999999997" fill="none" stroke="#9aa89f" stroke-width="1"/>
+<rect x="474.4000000000001" y="1489.9999999999998" width="100.0" height="40.0" rx="4" fill="#c9b29a" stroke="#c9b29a" stroke-width="1.2"/>
+<text x="524.4000000000001" y="1508.3999999999999" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#ffffff">Purchasing Manager</text>
+<text x="524.4000000000001" y="1518.1999999999998" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#ffffff">PS-01 · HC 1</text>
+<rect x="365.6" y="1554.7999999999997" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#c9b29a" stroke-width="1.2"/>
+<text x="415.6" y="1573.1999999999998" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Storekeeper</text>
+<text x="415.6" y="1582.9999999999998" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">PS-02 · HC 1</text>
+<rect x="474.4000000000001" y="1554.7999999999997" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#c9b29a" stroke-width="1.2"/>
+<text x="524.4000000000001" y="1573.1999999999998" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Receiving Clerk</text>
+<text x="524.4000000000001" y="1582.9999999999998" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">PS-03 · HC 1</text>
+<rect x="583.2" y="1554.7999999999997" width="100.0" height="40.0" rx="4" fill="#ffffff" stroke="#c9b29a" stroke-width="1.2"/>
+<text x="633.2" y="1568.2999999999997" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Dry Store / Chiller</text>
+<text x="633.2" y="1578.0999999999997" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.2" font-weight="bold" fill="#14231c">Keeper</text>
+<text x="633.2" y="1587.8999999999996" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="6.4" fill="#8a948d">PS-04 · HC 1</text>
+</svg>
